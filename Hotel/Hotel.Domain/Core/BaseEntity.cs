@@ -7,7 +7,6 @@ namespace Hotel.Domain.Core
     public class BaseEntity
     {
         public bool? Status { get; set; }
-        public DateTime? CreationDate { get; set; }
         public DateTime RegistrationDate { get; set; }
         public int CreationUserId { get; set; }
         public DateTime? ModDate { get; set; }
