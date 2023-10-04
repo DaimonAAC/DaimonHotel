@@ -1,0 +1,9 @@
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.deps.json
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.dll
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.pdb
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.AssemblyInfoInputs.cache
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.AssemblyInfo.cs
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.CoreCompileInputs.cache
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.dll
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.pdb

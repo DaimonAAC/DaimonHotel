@@ -1,0 +1,13 @@
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\bin\Debug\netstandard2.1\Hotel.Infrastructure.deps.json
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\bin\Debug\netstandard2.1\Hotel.Infrastructure.dll
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\bin\Debug\netstandard2.1\Hotel.Infrastructure.pdb
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\bin\Debug\netstandard2.1\Hotel.Domain.dll
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\bin\Debug\netstandard2.1\Hotel.Domain.pdb
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.AssemblyInfo.cs
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.csproj.CopyComplete
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.dll
+C:\Users\default.LAPTOP-4CBMH1H9\Desktop\ProyectoDaimonHotel\DaimonHotel\Hotel\Hotel.Infrastructure\obj\Debug\netstandard2.1\Hotel.Infrastructure.pdb
